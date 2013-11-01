@@ -5,7 +5,7 @@
 - `border-radius` (full support : no graceful degradation/weird HTC-based solutions anymore)
 - `box-shadow` (same thing)
 - `opacity` (without extra syntax)
-- `background-position`'s new syntax (ttp://tanalin.com/en/blog/2011/09/css3-background-position/)
+- `background-position`'s new syntax (http://tanalin.com/en/blog/2011/09/css3-background-position/)
 - `@font-face` : no more EOT files (WOFF may even be enough at all ?)
 - `rem` font sizing
 - alpha channel in colors : `rgba`, `hsla`
