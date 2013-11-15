@@ -4,7 +4,7 @@
 
 - Form validation
 - Geolocation
-- <video> && <audio>
+- `<video>` && `<audio>`
 
 ## CSS
 
