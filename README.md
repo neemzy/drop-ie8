@@ -1,5 +1,11 @@
 # DROP IE8
 
+## HTML5
+
+- Form validation
+- Geolocation
+- <video> && <audio>
+
 ## CSS
 
 - `border-radius` (full support : no graceful degradation/weird HTC-based solutions anymore)
@@ -8,8 +14,8 @@
 - `background-position`'s new syntax (http://tanalin.com/en/blog/2011/09/css3-background-position/)
 - `@font-face` : no more EOT files (WOFF may even be enough at all ?)
 - `rem` font sizing
-- alpha channel in colors : `rgba`, `hsla`
-- advanced selectors : `:last-child`, `:nth-child`, `:first-of-type`...
+- Alpha channel in colors : `rgba`, `hsla`
+- Advanced selectors : `:last-child`, `:nth-child`, `:first-of-type`...
 - `:empty` : https://developer.mozilla.org/en-US/docs/CSS/:empty
 - `:not` : https://developer.mozilla.org/en-US/docs/Web/CSS/:not
 - `calc()` : https://developer.mozilla.org/en-US/docs/CSS/calc
@@ -17,9 +23,7 @@
 - `background-size` : https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
 - `:checked` : http://css-tricks.com/the-checkbox-hack/
 - SVG/canvas
-- transforms
-
-**Note** : I was greatly helped with the above list by [this article](http://blog.goetter.fr/post/56443705444/ie8-must-die "IE8 must die") by Raphael Goetter, although he also included some items that are actually not fully correctly supported by IE9, and therefore don't appear here.
+- `transform` : https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 
 ## JS
 
@@ -31,4 +35,7 @@ Element.prototype.on = Element.prototype.addEventListener;
 $('.lol').on('click', function() {});
 ```
 
-- websocket support
+- Websockets
+- `getElementsByClassName`
+- `getComputedStyle`
+- `addEventListener`
