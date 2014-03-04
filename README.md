@@ -24,6 +24,7 @@
 - `:checked` : http://css-tricks.com/the-checkbox-hack/
 - SVG/canvas
 - `transform` : https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+- proper syntax for `::before` and `::after`
 
 ## JS
 
@@ -39,3 +40,4 @@ $('.lol').on('click', function() {});
 - `getElementsByClassName`
 - `getComputedStyle`
 - `addEventListener`
+- `function.prorotype.bind`
