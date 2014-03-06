@@ -22,7 +22,8 @@
 - Multiple backgrounds : http://www.css3.info/preview/multiple-backgrounds/
 - `background-size` : https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
 - `:checked` : http://css-tricks.com/the-checkbox-hack/
-- SVG/canvas
+- Canvas
+- SVG (THIS : http://coding.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/)
 - `transform` : https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 - proper syntax for `::before` and `::after`
 
