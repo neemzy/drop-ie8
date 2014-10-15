@@ -38,7 +38,11 @@ $('.lol').on('click', function() {});
 ```
 
 - Websockets
-- `getElementsByClassName`
+- `Element.prototype.getElementsByClassName`
 - `getComputedStyle`
-- `addEventListener`
-- `function.prototype.bind`
+- `Node.prototype.addEventListener`
+- `Function.prototype.bind`
+- `Object.create`
+- `Object.keys`
+- `Array.prototype.forEach`, `Array.prototype.map`, `Array.prototype.filter`, `Array.prototype.reduce` …
+- [and nearly every ES5 features](http://kangax.github.io/compat-table/es5/) (except strict mode)
