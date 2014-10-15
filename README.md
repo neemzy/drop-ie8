@@ -41,4 +41,4 @@ $('.lol').on('click', function() {});
 - `getElementsByClassName`
 - `getComputedStyle`
 - `addEventListener`
-- `function.prorotype.bind`
+- `function.prototype.bind`
